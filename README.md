@@ -1,0 +1,1 @@
+# yudetamago-config-mode-example
